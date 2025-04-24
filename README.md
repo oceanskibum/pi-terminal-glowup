@@ -1,6 +1,6 @@
 # Raspberry Pi Terminal Enhancement Toolkit
 
-Make your Raspberry Pi terminal beautiful, functional, and efficient for development.
+Make your Raspberry Pi terminal beautiful, functional, and efficient for development. It's a glowup, slay.
 
 ##  Features
 
@@ -8,7 +8,7 @@ Make your Raspberry Pi terminal beautiful, functional, and efficient for develop
 - Installs and configures Oh My Zsh with Powerlevel10k theme
 - Adds plugins: autosuggestions + syntax highlighting
 - Adds useful aliases and installs modern CLI tools (`bat`, `exa`, `htop`)
-- Smartly detects Raspberry Pi OS and adjusts font/package behavior
+- Auto-detects Raspberry Pi OS and adjusts font/package behavior
 
 ##  Requirements
 
