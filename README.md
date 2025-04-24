@@ -18,7 +18,7 @@ Make your Raspberry Pi terminal beautiful, functional, and efficient for develop
 ## Installation
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/oceanskibum/pi-terminal-setup/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/oceanskibum/pi-terminal-glowup/main/install.sh)
 ```
 
 
