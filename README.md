@@ -2,7 +2,7 @@
 
 Make your Raspberry Pi terminal beautiful, functional, and efficient for development.
 
-## 🚀 Features
+##  Features
 
 - Switches to `zsh` for improved shell experience
 - Installs and configures Oh My Zsh with Powerlevel10k theme
@@ -10,12 +10,12 @@ Make your Raspberry Pi terminal beautiful, functional, and efficient for develop
 - Adds useful aliases and installs modern CLI tools (`bat`, `exa`, `htop`)
 - Smartly detects Raspberry Pi OS and adjusts font/package behavior
 
-## ⚙️ Requirements
+##  Requirements
 
 - Raspberry Pi OS (Debian-based)
 - Internet connection
 
-## 🛠 Installation
+## Installation
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/YOUR_GITHUB/pi-terminal-setup/main/install.sh)
@@ -23,7 +23,7 @@ bash <(curl -s https://raw.githubusercontent.com/YOUR_GITHUB/pi-terminal-setup/m
 
 > Replace `YOUR_GITHUB` with your GitHub username after uploading the repo.
 
-## 📦 Installed Tools
+## Installed Tools
 
 - [ZSH](https://www.zsh.org/)
 - [Oh My Zsh](https://ohmyz.sh/)
@@ -32,11 +32,11 @@ bash <(curl -s https://raw.githubusercontent.com/YOUR_GITHUB/pi-terminal-setup/m
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 - `bat`, `exa`, `htop`, `fonts-powerline`
 
-## 🖼 Font Configuration
+## Font Configuration
 
 Install a Nerd Font on your terminal emulator to see icons correctly (like [FiraCode Nerd Font](https://www.nerdfonts.com/font-downloads)).
 
-## 🧪 Run the Powerlevel10k Config
+## Run the Powerlevel10k Config
 
 After install:
 
@@ -46,10 +46,10 @@ p10k configure
 
 This launches a wizard to personalize your prompt style.
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests and issues welcome!
 
-## 📜 License
+## License
 
 MIT
