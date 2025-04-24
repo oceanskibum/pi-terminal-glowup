@@ -18,10 +18,9 @@ Make your Raspberry Pi terminal beautiful, functional, and efficient for develop
 ## Installation
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/YOUR_GITHUB/pi-terminal-setup/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/oceanskibum/pi-terminal-setup/main/install.sh)
 ```
 
-> Replace `YOUR_GITHUB` with your GitHub username after uploading the repo.
 
 ## Installed Tools
 
